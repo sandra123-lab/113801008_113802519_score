@@ -14,3 +14,6 @@ for s in scores:
  if s < 60:
     fail_count+=1
 print(fail_count)
+print(max(scores))
+print(min(scores))
+
